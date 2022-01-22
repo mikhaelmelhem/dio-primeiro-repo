@@ -1,1 +1,4 @@
 Isso é um teste
+
+
+Isso é apenas uma introdução, o curso pede pra criar o primeiro repositório, eu já conheço o github e sei usar ele, tenho outros projetos então vou apenas subir esse arquivo pra concluir o desafio.
